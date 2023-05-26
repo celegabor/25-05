@@ -15,8 +15,10 @@ let Null= null
 // queste sono 3 possibilità per verificare se sono vere o false
 let Boolean= 'And/Not/Or'
 
-
+//lo usi quando hai un numero molto grande da inserire
 let BigInt='?'
+
+// 
 let Symbol= '?'
 
 let primoNumero= 12
