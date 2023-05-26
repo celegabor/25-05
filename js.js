@@ -46,4 +46,4 @@ let name2= 'John'
 console.log('sono diversi? ', name1 === name2)
 
 
-console.log('2, sono diversi? ', name1 !== name2)
+console.log('2. sono diversi? ', name1 === name2.toLowerCase())
